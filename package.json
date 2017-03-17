@@ -1,0 +1,19 @@
+{
+  "name": "litviz",
+  "version": "0.0.1",
+  "description": "Visualization of literature consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviortega/litViz.git"
+  },
+  "author": "Davi Ortega",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviortega/litViz/issues"
+  },
+  "homepage": "https://github.com/daviortega/litViz#readme"
+}

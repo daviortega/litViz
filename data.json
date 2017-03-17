@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "name": "Trimer of dimer structure of truncated receptor",
+            "id": 0
+        }
+    ],
+    "papers": [
+        {
+            "doi": "10.1021/bi5000614",
+            "parent": [],
+            "project": 0,
+            "date": "2017 march 15"
+        }
+    ]
+}
