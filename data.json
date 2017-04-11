@@ -7,7 +7,15 @@
         {
             "name": "Boundaries of Life",
             "id": 1
-        }
+        },
+        {
+            "name": "PhyloTreeVizJS",
+            "id": 2
+        },
+        {
+            "name": "Projectless",
+            "id": -1
+        }        
     ],
     "papers": [
         {
@@ -21,6 +29,18 @@
             "parent": [],
             "project": 1,
             "date": "2017 march 26"
-        }
+        },
+        {
+            "doi": "10.1101/035360",
+            "parent": [],
+            "project": 2,
+            "date": "2017 april 06"
+        },
+        {
+            "doi": "10.1126/science.aam6142",
+            "parent": [],
+            "project": -1,
+            "date": "2017 april 07"
+        },        
     ]
 }
